@@ -1,0 +1,74 @@
+{
+    "products": [{
+            "id": 1,
+            "title": "Apple iPhone 11",
+            "image": "/image/products/iPhone/iphone6.jpeg",
+            "price": 760,
+            "count": 1
+        },
+
+        {
+            "id": 2,
+            "title": "Samsung Galaxy",
+            "image": "/image/products/sumsung/samsung5.jpeg",
+            "price": 265,
+            "count": 1
+        },
+        {
+            "id": 3,
+            "title": "Sony WH-CH510",
+            "image": "/image/products/headphone/headphone4.jpeg",
+            "price": 850,
+            "count": 1
+        },
+        {
+            "id": 4,
+            "title": "Samsung Galaxy",
+            "image": "/image/products/sumsung/samsung3.jpeg",
+            "price": 290,
+            "count": 1
+        },
+        {
+            "id": 5,
+            "title": "Apple iPhone 11",
+            "image": "/image/products/iPhone/iphone2.jpeg",
+            "price": 250,
+            "count": 1
+        },
+
+        {
+            "id": 6,
+            "title": "Sony WH-CH510",
+            "image": "/image/products/headphone/headphone2.jpeg",
+            "price": 365,
+            "count": 1
+        },
+
+
+        {
+            "id": 7,
+            "title": "Samsung Galaxy",
+            "image": "/image/products/sumsung/samsung1.jpeg",
+            "price": 385,
+            "count": 1
+        },
+        {
+            "id": 8,
+            "title": "Sony WH-CH510",
+            "image": "/image/products/headphone/headphone1.jpeg",
+            "price": 475,
+            "count": 1
+        },
+        {
+            "id": 9,
+            "title": "Apple iPhone XR",
+            "image": "/image/products/iPhone/iphone1.jpeg",
+            "price": 475,
+            "count": 1
+        }
+        
+        
+       
+
+    ]
+}

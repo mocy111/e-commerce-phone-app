@@ -1,0 +1,210 @@
+  {
+    "products": [{
+            "id": 6,
+            "title": "Apple iPhone 11",
+            "image": "/image/products/iphone/iphone3.jpeg",
+            "price": 500.00,
+            "category": "Featured Products",
+            "count": 1
+        },
+
+        {
+            "id": 3,
+            "title": "Sony WH-CH510",
+            "image": "/image/products/headphone/headphone2.jpeg",
+            "price": 25000,
+            "category": "Special Products",
+            "count": 1
+        },
+        {
+            "id": 4,
+            "title": "Apple iPhone 11 Pro max",
+            "image": "/image/products/iphone/iphone2.jpeg",
+            "price": 850000,
+            "category": "Special Products",
+            "count": 1
+        },
+        {
+            "id": 8,
+            "title": "Apple iPhone 11",
+            "image": "/image/products/iphone/iphone4.jpeg",
+            "price": 500000,
+            "category": "Featured Products",
+            "count": 1
+        },
+        {
+            "id": 5,
+            "title": "Sony WH-CH510",
+            "image": "/image/products/headphone/headphone3.jpeg",
+            "price": 25000,
+            "category": "Special Products",
+            "count": 1
+        },
+
+        {
+            "id": 7,
+            "title": "Sony WH-CH510",
+            "image": "/image/products/headphone/headphone4.jpeg",
+            "price": 30000,
+            "category": "Featured Products",
+            "count": 1
+        },
+
+
+        {
+            "id": 10,
+            "title": "Apple iPhone 11 ",
+            "image": "/image/products/iphone/iphone5.jpeg",
+            "price": 500000,
+            "category": "Special Products",
+            "count": 1
+        },
+        {
+            "id": 11,
+            "title": "Sony WH-CH510",
+            "image": "/image/products/headphone/headphone6.jpeg",
+            "price": 6000,
+            "category": "Special Products",
+            "count": 1
+        },
+        {
+            "id": 13,
+            "title": "Apple iPhone 11 Pro max",
+            "image": "/image/products/iphone/iphone6.jpeg",
+            "price": 850000,
+            "category": "Trending Products",
+            "count": 1
+        },
+        {
+            "id": 12,
+            "title": "Sony WH-CH510",
+            "image": "/image/products/headphone/headphone7.jpeg",
+            "price": 6000,
+            "category": "Special Products",
+            "count": 1
+        },
+
+        {
+            "id": 14,
+            "title": "Sony WH-CH510",
+            "image": "/image/products/headphone/headphone7.jpeg",
+            "price": 6000,
+            "category": "Trending Products",
+            "count": 1
+        },
+        {
+            "id": 9,
+            "title": "Sony WH-CH510",
+            "image": "/image/products/headphone/headphone5.jpeg",
+            "price": 6000,
+            "category": "Special Products",
+            "count": 1
+        },
+        {
+            "id": 15,
+            "title": "Sony WH-CH510",
+            "image": "/image/products/headphone/headphone8.jpeg",
+            "price": 20000,
+            "category": "Trending Products",
+            "count": 1
+        },
+        {
+            "id": 16,
+            "title": "Samsung Galaxy",
+            "image": "/image/products/sumsung/samsung6.jpeg",
+            "price": 400,
+            "category": "Special Products",
+            "count": 1
+        },
+        {
+            "id": 17,
+            "title": "Samsung Galaxy",
+            "image": "/image/products/sumsung/samsung5.jpeg",
+            "price": 550,
+            "category": "Trending Products",
+            "count": 1
+        },
+        {
+            "id": 2,
+            "title": "Apple iPhone 11",
+            "image": "/image/products/iphone/iphone1.jpeg",
+            "price": 500000,
+            "category": "Special Products",
+            "count": 1
+        },
+        {
+            "id": 18,
+            "title": "Sony WH-CH510",
+            "image": "/image/products/headphone/headphone9.jpeg",
+            "price": 20000,
+            "category": "Trending Products",
+            "count": 1
+        },
+        {
+            "id": 20,
+            "title": "Samsung Galaxy",
+            "image": "/image/products/sumsung/samsung4.jpeg",
+            "price": 270,
+            "category": "Special Products",
+            "count": 1
+        },
+        {
+            "id": 19,
+            "title": "Sony WH-CH510",
+            "image": "/image/products/headphone/headphone10.jpeg",
+            "price": 30000,
+            "category": "Trending Products",
+            "count": 1
+        },
+        {
+            "id": 1,
+            "title": "Sony WH-CH510",
+            "image": "/image/products/headphone/headphone1.jpeg",
+            "price": 25000,
+            "category": "Special Products",
+            "count": 1
+        },
+        {
+            "id": 24,
+            "title": "Samsung Galaxy",
+            "image": "/image/products/sumsung/samsung2.jpeg",
+            "price": 500,
+            "category": "Featured Products",
+            "count": 1
+        },
+        {
+            "id": 21,
+            "title": "Sony WH-CH510",
+            "image": "/image/products/headphone/headphone11.jpeg",
+            "price": 30000,
+            "category": "Trending Products",
+            "count": 1
+        },
+
+        {
+            "id": 25,
+            "title": "Samsung Galaxy",
+            "image": "/image/products/sumsung/samsung1.jpeg",
+            "price": 450,
+            "category": "Special Products",
+            "count": 1
+        },
+        {
+            "id": 22,
+            "title": "Samsung Galaxy",
+            "image": "/image/products/sumsung/samsung3.jpeg",
+            "price": 460,
+            "category": "Trending Products",
+            "count": 1
+        },
+        {
+            "id": 23,
+            "title": "Sony WH-CH510",
+            "image": "/image/products/headphone/headphone12.jpeg",
+            "price": 30000,
+            "category": "Featured Products",
+            "count": 1
+        }
+
+    ]
+}
